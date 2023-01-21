@@ -17,7 +17,7 @@
 }
 .logo {
   width: 228px;
-  height: 32px;  
+  height: 32px;
 }
 
 .logo_place_header {
@@ -34,7 +34,7 @@
   font-size: 102px;
   font-weight: 600;
   line-height: 96px;
-  z-index: 2;  
+  z-index: 2;
 }
 
 .header__subtitle {
@@ -73,7 +73,7 @@
 }
 
 .description {
-  padding: 100px 0 0;  
+  padding: 100px 0 0;
 }
 
 .two-columns {
@@ -89,7 +89,7 @@
   font-size: 18px;
   line-height: 1.2;
   font-weight: normal;
-  color: #2f80ed;  
+  color: #2f80ed;
 }
 
 .two-columns__main-text {
@@ -188,7 +188,7 @@
   margin: 70px auto auto;
   line-height: 51px;
   font-size: 36px;
-  font-weight: normal; 
+  font-weight: normal;
   
 }
 
@@ -229,7 +229,7 @@
 .section-subtitle_theme_dark {
   position: relative;
   margin: 20px auto 0;
-  color: #f2f2f2; 
+  color: #f2f2f2;
 }
 
 .table_theme_dark {
@@ -264,7 +264,7 @@
 .footer {
   min-height: 350px;
   display: flex;
-  background-color: #1f1f1f;  
+  background-color: #1f1f1f;
 }
 
 
@@ -272,7 +272,7 @@
   margin: 60px auto 40px;
   width: 90%;
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
 }
 
 .footer__column {
