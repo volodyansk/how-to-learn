@@ -94,7 +94,7 @@
 
 .two-columns__main-text {
   width: 80%;
-  min-width: 784px; 
+  min-width: 784px;
   line-height: 1.2;
   font-size: 24px;
   font-weight: normal;
@@ -188,7 +188,7 @@
   margin: 70px auto auto;
   line-height: 51px;
   font-size: 36px;
-  line-height: normal; 
+  font-weight: normal; 
   
 }
 
@@ -198,8 +198,8 @@
   right: 48px;
   line-height: 51px;
   font-size: 36px;
-  line-height: normal;
-  color: #2f80ed; 
+  font-weight: normal;
+  color: #2f80ed;
   text-decoration: none;
 }
 
